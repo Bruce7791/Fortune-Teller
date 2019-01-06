@@ -1,5 +1,3 @@
-# A more politically correct version for Github.
-
 import random
 
 while True:
